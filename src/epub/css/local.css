@@ -6,9 +6,14 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 footer{
 	font-variant: small-caps;
 	margin-top: 1em;
+	text-align: right;
 }
 
 footer time{
