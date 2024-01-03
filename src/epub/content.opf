@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bertrand-russell/roads-to-freedom</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-01-03T21:03:46Z</dc:date>
+		<meta property="dcterms:modified">2024-01-03T21:03:46Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,15 +51,14 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Bertrand Russell investigates the merits and potential shortcomings of different socialist tendencies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;Roads to Freedom&lt;/i&gt;, written at the close of World War I in 1918, the British philosopher &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt; compares and contrasts three tendencies of socialist thought: Marxism (which Russell refers to as “State Socialism” or simply “Socialism”), Anarchism, and Syndicalism. After giving a historical outline of each ideology, Russell goes on to examine whether the ideal societies proposed by these ideologies would be practicable in reality and how issues such as wages, crime, international relations, art, and science would be addressed by these societies. He comes to the personal conclusion that the best practicable society is a form of Guild Socialism incorporating some of the proposals of Anarchism like universal provision of basic needs.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Roads to Freedom&lt;/i&gt;, written at the close of World War I in 1918, the British philosopher &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt; compares and contrasts three tendencies of socialist thought: Marxism (which Russell refers to as “State Socialism” or simply “Socialism”), Anarchism, and Syndicalism. After giving a historical outline of each ideology, Russell goes on to examine whether the ideal societies proposed by these ideologies would be practicable in reality and how issues such as wages, crime, international relations, art, and science would be addressed by these societies. He comes to the conclusion that the best practicable society is a form of Guild Socialism incorporating some of the proposals of Anarchism, like universal provision of basic needs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/690</dc:source>
 		<dc:source>https://archive.org/details/proposedroadstof00russuoft</dc:source>
 		<dc:source>https://archive.org/details/roadstofreedomso00russuoft</dc:source>
-		<meta property="se:production-notes">Both the US and UK printings were used to proofread.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">50898</meta>
+		<meta property="se:reading-ease.flesch">44.48</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_roads-to-freedom</meta>
 		<dc:creator id="author">Bertrand Russell</dc:creator>
 		<meta property="file-as" refines="#author">Russell, Bertrand</meta>
@@ -88,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
