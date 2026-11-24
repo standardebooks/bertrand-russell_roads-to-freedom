@@ -59,7 +59,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/690</dc:source>
 		<dc:source>https://archive.org/details/proposedroadstof00russuoft</dc:source>
 		<dc:source>https://archive.org/details/roadstofreedomso00russuoft</dc:source>
-		<meta property="schema:wordCount">50806</meta>
+		<meta property="schema:wordCount">50803</meta>
 		<meta property="schema:educationalLevel">44.58</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
